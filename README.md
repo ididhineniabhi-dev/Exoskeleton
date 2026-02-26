@@ -1,2 +1,2 @@
 # Exoskeleton
-Exo Skeleton for hand
+Exo Skeleton for arm
